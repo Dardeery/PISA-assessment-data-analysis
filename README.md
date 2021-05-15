@@ -91,7 +91,7 @@ we analyzed the data using Univariate analysis
 
 
 ###### a. over all results
-![png](univariate_barplot_subjectscores.png)
+![png](univariate_barplot.png)
 
 
 We see the following things:
