@@ -1,3 +1,5 @@
+![png](images/New%20web%20banner_1.png)
+
 
 #  FWD Udacity Data Analysis Nanodegree
 ## Communicate Data Findings: PISA 2012
@@ -91,7 +93,7 @@ we analyzed the data using Univariate analysis
 
 
 ###### a. over all results
-![png](univariate_barplot.png)
+![png](images/univariate_barplot.png)
 
 
 We see the following things:
@@ -103,13 +105,13 @@ We see the following things:
 
 
 ###### b. gender impact
-![png](univariate_boxplot_gender.png)
+![png](images/univariate_boxplot_gender.png)
 
 there is a limited gender gap in all subjects excepts for Reading where females into reading more than males. 
 
 
 ###### c. internet access impact
-![png](univariate_boxplot_internetaccess.png)
+![png](images/univariate_boxplot_internetaccess.png)
   
 this is very clear the better internet access to the students, more grades they get on their exams.
 
