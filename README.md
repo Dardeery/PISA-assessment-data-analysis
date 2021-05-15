@@ -104,6 +104,7 @@ We see the following things:
 
 ###### b. gender impact
 ![png](univariate_boxplot_gender.png)
+
 there is a limited gender gap in all subjects excepts for Reading where females into reading more than males. 
 
 
