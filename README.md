@@ -95,22 +95,45 @@ we analyzed the data using Univariate analysis
 ###### a. over all results
 ![png](images/univariate_barplot.png)
 
-
-We see the following things:
-  
+findings:
 * the score median between 300 and 600,
 * the sores are normally distributed.
 
 
+<a id='univariate'></a>
+### bivariate
+
+we analyzed the data using bivariate analysis
 
 
-###### b. gender impact
+###### b. over all results
+![png](images/bivariate_boxplot_regioncomparison.png)
+
+findings:
+* North America followed by Europe and Asia are in the top spot for all of the subjects and therefore also tops the overall rankings. 
+* The opposite is the case for the Arab States and the Middle East that ranks last in all of the categories.
+
+<a id='univariate'></a>
+### multivariate
+
+we analyzed the data using multivariate analysis
+
+
+###### c. over all results
+![png](images/multivariate%20subject.png)
+
+findings:
+* there is a high correlation between scores in all subjects math, science and reading.
+* there is a weak to negative correlation between scores and age of the applicant.
+
+
+###### d. gender impact
 ![png](images/univariate_boxplot_gender.png)
 
 there is a limited gender gap in all subjects excepts for Reading where females into reading more than males. 
 
 
-###### c. internet access impact
+###### e. internet access impact
 ![png](images/univariate_boxplot_internetaccess.png)
   
 this is very clear the better internet access to the students, more grades they get on their exams.
